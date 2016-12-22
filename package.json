@@ -1,0 +1,22 @@
+{
+  "name": "tutorme",
+  "version": "1.0.0",
+  "description": "\"# TutorME\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadSmith/TutorME.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadSmith/TutorME/issues"
+  },
+  "homepage": "https://github.com/AhmadSmith/TutorME#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
