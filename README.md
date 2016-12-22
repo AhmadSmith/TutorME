@@ -6,7 +6,7 @@
 1. [Sublime Text](https://www.sublimetext.com/) (Allows you to edit your code)
 
 ### Getting your Code from Github
-1. 
+1. Click the __Clone or download button__ on [your project](https://github.com/AhmadSmith/TutorME)
 
 ### Running your code locally
 1. Open up the __NodeJS command prompt__
